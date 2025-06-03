@@ -1,0 +1,4 @@
+repository "Casino Roulette Minigame@advaitdali@cloud"
+  path "/"
+    br "/main"
+    co "/main"
